@@ -11,4 +11,5 @@ Algumas das funcionalidades:
 - Webview para acessar os repositórios favoritados do usuário
 
 ![alt text](assets/screens/GitExporerRN.png?raw=true)
+
 ![alt text](assets/screens/GitExporerRN2.png?raw=true)
